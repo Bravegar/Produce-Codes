@@ -1,0 +1,16 @@
+.container {
+	display: flex;
+	flex-direction: column;
+}
+
+.itemName {
+	order: 1
+}
+
+.itemImage {
+	order: 2
+}
+
+.itemCode {
+	order: 3
+}
